@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TempC</string>\
+    <string name="temperature_celsius">Temperature (°C)</string>
+    <string name="conversion_que">Convert into?</string>
+    <string name="fahrenheit">Fahrenheit (°F)</string>
+    <string name="kelvin">Kelvin (°K)</string>
+    <string name="calculate">Calculate</string>
+</resources>
